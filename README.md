@@ -13,11 +13,6 @@ publish/subscribe design pattern.
 You can find the documentation for this project here:
 [https://10ign.github.io/pubsub/](https://10ign.github.io/pubsub/)
 
-## Unit test coverage
-
-You can find the full unit test coverage report for this project here:
-[https://10ign.github.io/pubsub/coverage/lcov-report](https://10ign.github.io/pubsub/coverage/lcov-report)
-
 ## Contributing
 
 You can contribute by forking this repository and creating a

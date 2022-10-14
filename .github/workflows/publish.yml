@@ -161,11 +161,6 @@ jobs:
         with:
           name: docs
           path: ./docs
-      - name: Download Coverage
-        uses: actions/download-artifact@v3
-        with:
-          name: coverage
-          path: ./docs/coverage
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
