@@ -1,6 +1,6 @@
 {
   "name": "@10ign/pubsub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common Types",
   "main": "dist/PubSub.js",
   "source": "src/PubSub.ts",
