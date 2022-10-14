@@ -16,7 +16,7 @@ You can find the documentation for this project here:
 ## Unit test coverage
 
 You can find the full unit test coverage report for this project here:
-[https://10ign.github.io/pubsub/coverage](https://10ign.github.io/pubsub/coverage)
+[https://10ign.github.io/pubsub/coverage/lcov-report](https://10ign.github.io/pubsub/coverage/lcov-report)
 
 ## Contributing
 
