@@ -1,7 +1,7 @@
 {
   "name": "@10ign/pubsub",
   "version": "1.0.4",
-  "description": "Common Types",
+  "description": "Publish Subscribe utility",
   "main": "dist/PubSub.js",
   "source": "src/PubSub.ts",
   "types": "dist/PubSub.d.ts",
