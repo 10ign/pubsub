@@ -1,6 +1,6 @@
 {
   "name": "@10ign/pubsub",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Publish Subscribe utility",
   "main": "dist/PubSub.js",
   "source": "src/PubSub.ts",
@@ -30,9 +30,9 @@
     "ts-jest": "^29.0.3",
     "typedoc": "^0.23.16"
   },
-  "engines" : {
-    "npm" : ">=8.0.0 <9.0.0",
-    "node" : ">=14.14.0 <19.0.0"
+  "engines": {
+    "npm": ">=8.0.0 <9.0.0",
+    "node": ">=14.14.0 <19.0.0"
   },
   "scripts": {
     "build": "tsc",
